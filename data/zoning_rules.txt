@@ -1,0 +1,46 @@
+NAGAR CITY MUNICIPAL CORPORATION — ZONING REGULATIONS
+
+RULE-001: Front Setback — R1 Zone
+In R1 (Low Density Residential) zones, the minimum front setback shall be 3.0 metres from the plot boundary to the nearest wall of any permanent structure.
+
+RULE-002: Front Setback — R2 Zone
+In R2 (Medium Density Residential) zones, the minimum front setback shall be 4.5 metres from the front plot boundary to the nearest wall of any permanent structure.
+
+RULE-003: Side Setback — R1 and R2 Zones
+In all residential zones (R1 and R2), the minimum side setback shall be 1.2 metres on each side of the plot.
+
+RULE-004: Rear Setback — Residential Zones
+In R1 and R2 zones, the minimum rear setback shall be 2.5 metres from the rear plot boundary to any permanent structure.
+
+RULE-005: Maximum Building Height — R1 Zone
+In R1 zones, the maximum permissible building height is 8.5 metres including all floors, parapets, and rooftop structures.
+
+RULE-006: Maximum Building Height — R2 Zone
+In R2 zones, the maximum permissible building height is 11.0 metres including all floors, parapets, and rooftop structures.
+
+RULE-007: Permitted Land Use — R1 Zone
+R1 zones permit only single-family residential use. Commercial activity, industrial use, warehousing, and multi-family residential above duplex are strictly prohibited.
+
+RULE-008: Permitted Land Use — R2 Zone
+R2 zones permit single-family residential, duplex, and small-scale home offices. Industrial use, warehousing, and commercial retail are prohibited.
+
+RULE-009: Industrial Zone Land Use — I1
+I1 (Light Industrial) zones are designated exclusively for industrial, warehousing, and manufacturing purposes. Residential construction of any type is not permitted in I1 zones.
+
+RULE-010: Floor Area Ratio — R1 Zone
+The maximum Floor Area Ratio (FAR) in R1 zones is 0.6. The total built-up area across all floors must not exceed 60% of the total plot area.
+
+RULE-011: Floor Area Ratio — R2 Zone
+The maximum Floor Area Ratio (FAR) in R2 zones is 0.65. The total built-up area across all floors must not exceed 65% of the total plot area.
+
+RULE-012: Parking Requirements — Residential
+All residential buildings with a built-up area exceeding 150 square metres must provide a minimum of one dedicated off-street parking space within the plot boundary.
+
+RULE-013: Green Coverage — Residential Zones
+A minimum of 15% of the total plot area must be maintained as unpaved, permeable green space in all residential zones.
+
+RULE-014: Contractor Licensing
+All construction work under a building permit must be carried out by a contractor holding a valid Nagar City Municipal Corporation contractor license. Expired licenses are not acceptable.
+
+RULE-015: Structural and Architectural Certification
+All building plans must be certified and sealed by a licensed architect registered with the Council of Architecture. Unsealed plans will not be accepted for permit processing.

@@ -1,0 +1,23 @@
+{
+  "permit_type": "electrical_trade_license",
+  "required_fields": [
+    {"field": "applicant_name", "type": "string", "description": "Full legal name of business or individual applicant"},
+    {"field": "applicant_contact", "type": "string", "description": "Valid contact number"},
+    {"field": "business_address", "type": "string", "description": "Registered business address"},
+    {"field": "trade_category", "type": "string", "description": "Category of trade work (e.g. Electrical Works)"},
+    {"field": "license_class", "type": "string", "description": "Class of license applied for (Class A or Class B)"},
+    {"field": "master_electrician_name", "type": "string", "description": "Full name of the licensed master electrician"},
+    {"field": "master_electrician_cert", "type": "string", "description": "Master electrician certificate registration number"},
+    {"field": "master_electrician_cert_expiry", "type": "date", "description": "Master electrician certificate expiry (must be future)"},
+    {"field": "business_registration_number", "type": "string", "description": "Municipal business registration number"},
+    {"field": "signature_date", "type": "date", "description": "Date of applicant signature"}
+  ],
+  "required_documents": [
+    {"field": "insurance_certificate", "description": "Valid public liability insurance certificate must be attached"},
+    {"field": "safety_compliance_cert", "description": "Current safety compliance certificate must be submitted"},
+    {"field": "tool_calibration_cert", "description": "Valid tool and equipment calibration certificate required"}
+  ],
+  "optional_fields": [
+    {"field": "notes", "description": "Additional applicant notes or declarations"}
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "application_id": "APP-004",
+    "applicant_name": "Sunita Menon",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-07-12 20:44:19",
+    "processing_time_seconds": 2.2,
+    "total_issues": 2,
+    "has_policy_conflicts": true
+  },
+  {
+    "application_id": "TL-001",
+    "applicant_name": "Suresh Electricals Pvt Ltd",
+    "permit_type": "Electrical Trade License",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-07-12 20:45:22",
+    "processing_time_seconds": 2.4,
+    "total_issues": 2,
+    "has_policy_conflicts": true
+  },
+  {
+    "application_id": "TL-002",
+    "applicant_name": "Bright Wiring Solutions",
+    "permit_type": "Electrical Trade License",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-07-12 20:45:55",
+    "processing_time_seconds": 3.2,
+    "total_issues": 10,
+    "has_policy_conflicts": true
+  },
+  {
+    "application_id": "PDF-TL-1259",
+    "applicant_name": "Mehta Electrical Services",
+    "permit_type": "Electrical Trade License",
+    "overall_status": "READY",
+    "screened_at": "2026-07-12 21:19:59",
+    "processing_time_seconds": 1.9,
+    "total_issues": 0,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "APP-003",
+    "applicant_name": "Anil Verma",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-08-16 07:21:53",
+    "processing_time_seconds": 1.9,
+    "total_issues": 1,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "APP-005",
+    "applicant_name": "Farhan Qureshi",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "READY",
+    "screened_at": "2026-08-16 07:59:37",
+    "processing_time_seconds": 1.3,
+    "total_issues": 0,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "PDF-TL-7552",
+    "applicant_name": "Mehta Electrical Services",
+    "permit_type": "Electrical Trade License",
+    "overall_status": "READY",
+    "screened_at": "2026-08-16 09:35:32",
+    "processing_time_seconds": 1.7,
+    "total_issues": 0,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "APP-001",
+    "applicant_name": "Rajesh Sharma",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "READY",
+    "screened_at": "2026-08-16 10:06:17",
+    "processing_time_seconds": 1.1,
+    "total_issues": 0,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "APP-002",
+    "applicant_name": "Priya Nair",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-08-16 10:06:35",
+    "processing_time_seconds": 1.2,
+    "total_issues": 5,
+    "has_policy_conflicts": false
+  },
+  {
+    "application_id": "PDF-APP-6843",
+    "applicant_name": "Vikram Anand",
+    "permit_type": "Residential Building Permit",
+    "overall_status": "BLOCKED",
+    "screened_at": "2026-08-16 10:07:15",
+    "processing_time_seconds": 1.3,
+    "total_issues": 7,
+    "has_policy_conflicts": false
+  }
+]

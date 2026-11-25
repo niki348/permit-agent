@@ -1,0 +1,28 @@
+{
+  "permit_type": "residential_building",
+  "required_fields": [
+    {"field": "applicant_name", "type": "string", "description": "Full legal name of applicant"},
+    {"field": "applicant_contact", "type": "string", "description": "Valid contact number"},
+    {"field": "property_address", "type": "string", "description": "Full property address"},
+    {"field": "plot_number", "type": "string", "description": "Municipal plot reference number"},
+    {"field": "zone_type", "type": "string", "description": "Zoning classification of the plot"},
+    {"field": "proposed_use", "type": "string", "description": "Intended use of the building"},
+    {"field": "plot_area_sqm", "type": "number", "description": "Total plot area in square metres"},
+    {"field": "proposed_built_up_area_sqm", "type": "number", "description": "Proposed built-up area in square metres"},
+    {"field": "proposed_height_m", "type": "number", "description": "Proposed building height in metres"},
+    {"field": "front_setback_m", "type": "number", "description": "Front setback distance in metres"},
+    {"field": "side_setback_m", "type": "number", "description": "Side setback distance in metres"},
+    {"field": "rear_setback_m", "type": "number", "description": "Rear setback distance in metres"},
+    {"field": "contractor_license_id", "type": "string", "description": "Licensed contractor registration ID"},
+    {"field": "contractor_license_expiry", "type": "date", "description": "Contractor license expiry date (must be future)"},
+    {"field": "signature_date", "type": "date", "description": "Date of applicant signature"}
+  ],
+  "required_documents": [
+    {"field": "insurance_certificate", "description": "Valid insurance certificate must be attached"},
+    {"field": "site_plan_attached", "description": "Approved site plan must be submitted"},
+    {"field": "architect_seal", "description": "Architect-sealed drawings must be included"}
+  ],
+  "optional_fields": [
+    {"field": "notes", "description": "Additional applicant notes"}
+  ]
+}
